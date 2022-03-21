@@ -18,6 +18,5 @@
   "dependencies": {
     "purescript-effect": "^3.0.0",
     "purescript-integers": "^5.0.0",
-    "purescript-math": "^3.0.0"
   }
 }
